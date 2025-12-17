@@ -1,7 +1,7 @@
 # 🦁 **CSK IPL Analysis Dashboard (2008–2025)**
 ### Python | JavaScript | Excel | Power BI
 
-<img src="dashboard/imgs/csk_logo.png" width="180"/> 
+<img src="dashboard/imgs/CSK_Logo.png" width="180"/> 
 
 This project presents a fully interactive and dynamic analysis of the Chennai Super Kings (CSK) across all IPL seasons from **2008 to 2025** (except 2016–17 due to the team’s suspension).
 
