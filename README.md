@@ -523,7 +523,7 @@ This analysis surfaces clear performance patterns across seasons, players, partn
 
 ### Executive Insight Summary (Concise)
 
-- CSK’s peak seasons **(2010, 2013, 2018, 2021, 2023)** are driven by **balanced partnerships, controlled bowling economy, and stable leadership** not individual brilliance.
+- CSK’s peak seasons **(2010, 2011, 2013, 2018, 2021, 2023)** are driven by **balanced partnerships, controlled bowling economy, and stable leadership** not individual brilliance.
 
 - **MS Dhoni and Suresh Raina** anchor CSK’s batting legacy, while **Ravindra Jadeja** stands out as the franchise’s most impactful all-rounder.
 
