@@ -1,9 +1,9 @@
-# 🦁 **CSK IPL Analysis Dashboard (2008–2025)**
+# 🦁 **CSK IPL Analytics Dashboard (2008–2025)**
 ### Python | JavaScript | Excel | Power BI
 
 <img src="dashboard/imgs/CSK_Logo.png" width="180"/> 
 
-This project presents a fully interactive and dynamic analysis of the Chennai Super Kings (CSK) across all IPL seasons from **2008 to 2025** (except 2016–17 due to the team’s suspension).
+This project presents a fully interactive and dynamic Analytics of the Chennai Super Kings (CSK) across all IPL seasons from **2008 to 2025** (except 2016–17 due to the team’s suspension).
 
 It covers **batting, bowling, fielding, captaincy stats, match results, partnerships, and overall team performance**, offering deep insights into player contributions and seasonal trends.
 
@@ -162,7 +162,7 @@ Used Power Query to:
 
 **Step 6 — Visualization & Dashboard Building**
 
-- Built 8 pages based on cricket analysis logic
+- Built 8 pages based on cricket Analytics logic
 - Added slicers, drill-through, tooltips
 - Applied CSK theme
 
@@ -326,7 +326,7 @@ The Power BI report consists of 8 fully interactive pages:
 
     **This is not just a dashboard. This is the legacy of CSK.**
 
-    This page is my foundation — the **“Who Are We?”** chapter — before the viewer travels deeper into the analysis.  
+    This page is my foundation — the **“Who Are We?”** chapter — before the viewer travels deeper into the Analytics.  
 
     ![Overview](dashboard/imgs/1_overview.jpg)
 
@@ -438,7 +438,7 @@ The Power BI report consists of 8 fully interactive pages:
 
     **CSK is not a team of individual performers — they are built on partnerships, chemistry, and trust between pairs.**
 
-    ![Partnership](dashboard/imgs/6_partnership.jpg)
+    ![Partnership](dashboard/imgs/6_partnerships.jpg)
 
 - **Page 7 – Team Insights: Understanding Rivalries, Patterns & Trends**
 
@@ -519,11 +519,11 @@ This is my attempt to show how data isn’t just numbers.
 | Dark Grey    | `#1C1C1C`  | <div style="width:20px;height:20px;background:#1C1C1C;border:1px solid #ddd;display:inline-block"></div> |
 
 
-This analysis surfaces clear performance patterns across seasons, players, partnerships, venues, and match situations, using interactive filters (Season, Player, Opposition, Ground).
+This Analytics surfaces clear performance patterns across seasons, players, partnerships, venues, and match situations, using interactive filters (Season, Player, Opposition, Ground).
 
 ### Executive Insight Summary (Concise)
 
-- CSK’s peak seasons **(2010, 2013, 2018, 2021, 2023)** are driven by **balanced partnerships, controlled bowling economy, and stable leadership** not individual brilliance.
+- CSK’s peak seasons **(2010, 2011, 2013, 2018, 2021, 2023)** are driven by **balanced partnerships, controlled bowling economy, and stable leadership** not individual brilliance.
 
 - **MS Dhoni and Suresh Raina** anchor CSK’s batting legacy, while **Ravindra Jadeja** stands out as the franchise’s most impactful all-rounder.
 
@@ -564,8 +564,8 @@ CSK_Ipl_Analytics/
 │   ├── imgs/
 │   │     ├── logos.png                   # Logos for the dashboard
 │   │     └── dashboard_screenshots.png   # Images/screenshots of the final dashboard
-│   ├── CSK_IPL_Analysis_Dashboard.pbix   # Power BI Desktop file for the final dashboard
-│   └── CSK_IPL_Analysis_Dashboard.pdf    # Exported PDF version of the dashboard
+│   ├── CSK_IPL_Analytics_Dashboard.pbix   # Power BI Desktop file for the final dashboard
+│   └── CSK_IPL_Analytics_Dashboard.pdf    # Exported PDF version of the dashboard
 │
 ├── data/
 │   ├── final_excel/                      # Cleaned, transformed, and merged data files 
@@ -603,7 +603,7 @@ CSK_Ipl_Analytics/
 ## ▶️ 10. How to Use This Project
 
 1. Clone or download the repository
-2. Open `CSK_IPL_Analysis_Dashboard.pbix` using Power BI Desktop
+2. Open `CSK_IPL_Analytics_Dashboard.pbix` using Power BI Desktop
 3. Ensure all Excel files inside `/data/final_excel/` are present
 4. Refresh the dataset to reload all visuals
 5. Use slicers to explore seasons, players, opponents, and venues
@@ -630,10 +630,10 @@ The project can be further extended in the following ways:
 
 - Add predictive analytics to forecast player form and team performance
 - Build a custom MVP / Player Impact Index combining batting, bowling, and fielding metrics
-- Introduce venue-based geospatial analysis using map visuals
-- Implement season comparison bookmarks for side-by-side analysis
+- Introduce venue-based geospatial Analytics using map visuals
+- Implement season comparison bookmarks for side-by-side Analytics
 - Add advanced tooltip pages for deeper drill-down insights
-- Integrate match phase analysis (Powerplay vs Middle vs Death Overs) by importing ball-by-ball data 
+- Integrate match phase Analytics (Powerplay vs Middle vs Death Overs) by importing ball-by-ball data 
 - Automate data refresh pipelines for future IPL seasons
 - Convert the dashboard into a public Power BI Service embed for wider accessibility
 
